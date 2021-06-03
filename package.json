@@ -1,7 +1,7 @@
 {
   "name": "app_user",
   "version": "0.1.0",
-  "homepage": "https://github.com/hdyaro88/WebProject",
+  "homepage": "https://hdyaro88.github.io/TestRep",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
